@@ -1,0 +1,59 @@
+﻿  Encryptor.c
+D:\blacklotus\BlackLotus-main\src\Shared\crt.c(39,2): error C4235: extension non standard utilisée : mot clé '__asm' non pris en charge dans cette architecture
+D:\blacklotus\BlackLotus-main\src\Shared\crt.c(41,7): error C2065: 'lea' : identificateur non déclaré
+D:\blacklotus\BlackLotus-main\src\Shared\crt.c(41,7): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'esi'
+D:\blacklotus\BlackLotus-main\src\Shared\crt.c(41,10): error C2065: 'esi' : identificateur non déclaré
+D:\blacklotus\BlackLotus-main\src\Shared\crt.c(42,7): error C2065: 'mov' : identificateur non déclaré
+D:\blacklotus\BlackLotus-main\src\Shared\crt.c(42,7): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'edi'
+D:\blacklotus\BlackLotus-main\src\Shared\crt.c(42,10): error C2065: 'edi' : identificateur non déclaré
+D:\blacklotus\BlackLotus-main\src\Shared\crt.c(44,7): error C2065: 'mov' : identificateur non déclaré
+D:\blacklotus\BlackLotus-main\src\Shared\crt.c(44,7): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'eax'
+D:\blacklotus\BlackLotus-main\src\Shared\crt.c(44,10): error C2065: 'eax' : identificateur non déclaré
+D:\blacklotus\BlackLotus-main\src\Shared\crt.c(44,12): error C2059: erreur de syntaxe : '['
+D:\blacklotus\BlackLotus-main\src\Shared\crt.c(45,7): error C2065: 'mov' : identificateur non déclaré
+D:\blacklotus\BlackLotus-main\src\Shared\crt.c(45,7): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'edx'
+D:\blacklotus\BlackLotus-main\src\Shared\crt.c(45,10): error C2065: 'edx' : identificateur non déclaré
+D:\blacklotus\BlackLotus-main\src\Shared\crt.c(45,12): error C2059: erreur de syntaxe : '['
+D:\blacklotus\BlackLotus-main\src\Shared\crt.c(46,7): error C2065: 'mov' : identificateur non déclaré
+D:\blacklotus\BlackLotus-main\src\Shared\crt.c(46,7): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'ebx'
+D:\blacklotus\BlackLotus-main\src\Shared\crt.c(46,10): error C2065: 'ebx' : identificateur non déclaré
+D:\blacklotus\BlackLotus-main\src\Shared\crt.c(46,12): error C2059: erreur de syntaxe : '['
+D:\blacklotus\BlackLotus-main\src\Shared\crt.c(47,7): error C2065: 'mov' : identificateur non déclaré
+D:\blacklotus\BlackLotus-main\src\Shared\crt.c(47,7): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'ecx'
+D:\blacklotus\BlackLotus-main\src\Shared\crt.c(47,10): error C2065: 'ecx' : identificateur non déclaré
+D:\blacklotus\BlackLotus-main\src\Shared\crt.c(47,12): error C2059: erreur de syntaxe : '['
+D:\blacklotus\BlackLotus-main\src\Shared\crt.c(49,8): error C2065: 'lock' : identificateur non déclaré
+D:\blacklotus\BlackLotus-main\src\Shared\crt.c(49,8): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'cmpxchg8b'
+D:\blacklotus\BlackLotus-main\src\Shared\crt.c(49,17): error C2065: 'cmpxchg8b' : identificateur non déclaré
+D:\blacklotus\BlackLotus-main\src\Shared\crt.c(49,21): error C2065: 'edi' : identificateur non déclaré
+D:\blacklotus\BlackLotus-main\src\Shared\crt.c(49,21): error C2109: un indice requiert un type tableau ou pointeur
+D:\blacklotus\BlackLotus-main\src\Shared\crt.c(76,15): warning C4244: 'return' : conversion de 'SIZE_T' en 'DWORD', perte possible de données
+D:\blacklotus\BlackLotus-main\src\Shared\crt.c(112,23): warning C4244: 'fonction' : conversion de 'SIZE_T' en 'DWORD', perte possible de données
+D:\blacklotus\BlackLotus-main\src\Shared\crt.c(116,17): warning C4244: '=' : conversion de 'SIZE_T' en 'DWORD', perte possible de données
+D:\blacklotus\BlackLotus-main\src\Shared\crt.c(485,28): warning C4244: '=' : conversion de 'DWORD' en 'USHORT', perte possible de données
+D:\blacklotus\BlackLotus-main\src\Shared\crt.c(486,33): warning C4244: '=' : conversion de 'DWORD' en 'USHORT', perte possible de données
+D:\blacklotus\BlackLotus-main\src\Shared\api.c(17,2): error C4235: extension non standard utilisée : mot clé '__asm' non pris en charge dans cette architecture
+D:\blacklotus\BlackLotus-main\src\Shared\api.c(19,7): error C2065: 'MOV' : identificateur non déclaré
+D:\blacklotus\BlackLotus-main\src\Shared\api.c(19,7): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'EAX'
+D:\blacklotus\BlackLotus-main\src\Shared\api.c(19,10): error C2065: 'EAX' : identificateur non déclaré
+D:\blacklotus\BlackLotus-main\src\Shared\api.c(19,14): error C2065: 'FS' : identificateur non déclaré
+D:\blacklotus\BlackLotus-main\src\Shared\api.c(19,14): error C2143: erreur de syntaxe : absence de ';' avant ':'
+D:\blacklotus\BlackLotus-main\src\Shared\api.c(20,7): error C2065: 'MOV' : identificateur non déclaré
+D:\blacklotus\BlackLotus-main\src\Shared\api.c(20,7): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'EAX'
+D:\blacklotus\BlackLotus-main\src\Shared\api.c(20,10): error C2065: 'EAX' : identificateur non déclaré
+D:\blacklotus\BlackLotus-main\src\Shared\api.c(20,12): error C2059: erreur de syntaxe : '['
+D:\blacklotus\BlackLotus-main\src\Shared\api.c(21,7): error C2065: 'MOV' : identificateur non déclaré
+D:\blacklotus\BlackLotus-main\src\Shared\api.c(21,7): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'EAX'
+D:\blacklotus\BlackLotus-main\src\Shared\api.c(21,10): error C2065: 'EAX' : identificateur non déclaré
+D:\blacklotus\BlackLotus-main\src\Shared\api.c(21,12): error C2059: erreur de syntaxe : '['
+D:\blacklotus\BlackLotus-main\src\Shared\api.c(22,7): error C2065: 'MOV' : identificateur non déclaré
+D:\blacklotus\BlackLotus-main\src\Shared\api.c(22,7): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'EAX'
+D:\blacklotus\BlackLotus-main\src\Shared\api.c(22,10): error C2065: 'EAX' : identificateur non déclaré
+D:\blacklotus\BlackLotus-main\src\Shared\api.c(22,12): error C2059: erreur de syntaxe : '['
+D:\blacklotus\BlackLotus-main\src\Shared\api.c(23,7): error C2065: 'MOV' : identificateur non déclaré
+D:\blacklotus\BlackLotus-main\src\Shared\api.c(23,7): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'Module'
+D:\blacklotus\BlackLotus-main\src\Shared\api.c(23,18): error C2065: 'EAX' : identificateur non déclaré
+D:\blacklotus\BlackLotus-main\src\Shared\utils.c(73,15): warning C4013: '__readfsdword' non défini(e) ; extern retournant int pris par défaut
+D:\blacklotus\BlackLotus-main\src\Shared\utils.c(73,34): warning C4312: 'cast de type' : la conversion de 'int' en 'PPEB' d'une taille supérieure
+D:\blacklotus\BlackLotus-main\src\Shared\utils.c(228,13): warning C4244: 'return' : conversion de 'ULONG_PTR' en 'DWORD', perte possible de données
+D:\blacklotus\BlackLotus-main\src\Encryptor\Encryptor.c(33,29): warning C4267: 'fonction' : conversion de 'size_t' en 'DWORD', perte possible de données

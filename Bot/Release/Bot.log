@@ -1,0 +1,13 @@
+﻿  antidebug.c
+  command.c
+  globals.c
+  http.c
+  injection.c
+  install.c
+  nzt.c
+  report.c
+  shared.c
+D:\blacklotus\BlackLotus-main\src\Shared\file.c(65,70): warning C4090: 'fonction' : qualificateurs 'const' différents
+  Génération de code en cours...
+D:\blacklotus\BlackLotus-main\src\Shared\file.c(85): warning C4700: variable locale 'IO' non initialisée utilisée
+  Bot.vcxproj -> D:\blacklotus\BlackLotus-main\src\Release\Bot.exe
